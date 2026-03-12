@@ -168,10 +168,10 @@ function AboutPage() {
       <section className="section about-section">
         <div className="container section-intro">
           <p>
-            Our founder began his career working in the construction trades, gaining practical experience with the discipline, craftsmanship, and responsibility required on active job sites. Over time, that field experience developed into a deep understanding of how electrical systems must be installed safely, efficiently, and with long-term performance in mind.
+            BlueBeam Electric Co. was founded on real, hands-on experience in the field. Early in his career, our founder worked directly on active job sites, developing a strong understanding of the standards, precision, and accountability required to perform electrical work correctly. That experience led to a deep knowledge of how electrical systems must be installed safely, efficiently, and with long-term performance in mind.
           </p>
           <p>
-            BlueBeam Electric Co. was established to turn that hands-on experience into a company focused on dependable service, technical knowledge, and strong client relationships.
+            Our founder turned that hands-on experience into a company focused on dependable service, technical knowledge, and strong client relationships.
           </p>
           <p>
             Today, BlueBeam Electric Co. delivers professional electrical services for public and private sector clients across commercial, industrial, multifamily, and infrastructure projects.
