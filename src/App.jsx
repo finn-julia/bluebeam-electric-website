@@ -132,11 +132,11 @@ function HomePage() {
     <section className="hero home-hero-simple">
       <div className="container hero-grid">
         <div className="hero-copy">
-          <p className="eyebrow">Where Integrity Meets Execution</p>
+          <p className="eyebrow">Where Values Become Results</p>
           <h1>Professional Electrical Services</h1>
-          <h2>Executed with Precision. Delivered Safely.</h2>
+          <h2>Built with Precision. Delivered Safely.</h2>
           <p className="hero-text">
-            BlueBeam Electric Co. provides coordinated electrical systems for commercial, institutional, and multifamily construction projects. We install high-performance electrical infrastructure with precision, efficiency, and schedule-driven execution so buildings operate reliably from day one.
+            BlueBeam Electric Co. provides coordinated electrical systems for commercial, institutional, and multifamily construction projects. We deliver high-performance electrical infrastructure through precise installation, efficient coordination, and schedule-driven execution—ensuring dependable building operations from day one.
           </p>
           <div className="hero-actions">
             <NavLink className="button button-primary" to="/contact">
@@ -168,19 +168,13 @@ function AboutPage() {
       <section className="section about-section">
         <div className="container section-intro">
           <p>
-            Shortly after arriving in the United States, our founder began working in the
-            construction trades, learning firsthand the discipline, craftsmanship, and
-            accountability required on demanding job sites. What began as long days in the field
-            evolved into a deep understanding of how electrical systems must be installed safely,
-            strategically, and efficiently.
+            Our founder began his career working in the construction trades, gaining practical experience with the discipline, craftsmanship, and responsibility required on active job sites. Over time, that field experience developed into a deep understanding of how electrical systems must be installed safely, efficiently, and with long-term performance in mind.
           </p>
           <p>
-            BlueBeam Electric Co. was formed to bring that field-earned experience into a company built around
-            reliability, technical expertise, and trust.
+            BlueBeam Electric Co. was established to turn that hands-on experience into a company focused on dependable service, technical knowledge, and strong client relationships.
           </p>
           <p>
-            Today, BlueBeam Electric Co. provides professional electrical services to public and private sector
-            clients across commercial, industrial, multifamily, and infrastructure projects.
+            Today, BlueBeam Electric Co. delivers professional electrical services for public and private sector clients across commercial, industrial, multifamily, and infrastructure projects.
           </p>
         </div>
 
@@ -453,8 +447,7 @@ function App() {
         <span className="brand-text">BlueBeam Electric Co.</span>
       </NavLink>
       <p>
-        Professional electrical services built for safety, performance, and dependable
-        execution.
+        Professional electrical contracting focused on safety, performance, and execution you can trust.
       </p>
     </div>
 
@@ -492,7 +485,7 @@ function App() {
 
   <div className="container footer-bottom">
     <p>© 2026 BlueBeam Electric Co. All rights reserved.</p>
-    <p>Where Integrity Meets Execution</p>
+    <p>Where Values Become Results</p>
   </div>
 </footer>
     </div>
